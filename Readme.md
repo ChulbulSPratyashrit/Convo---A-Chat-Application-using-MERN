@@ -1,4 +1,4 @@
-# Fullstack Chat Application
+# Convo - A chat application using MERN
 
 ## Overview
 This is a fullstack real-time chat application that allows users to communicate instantly. It includes user authentication, real-time messaging, theme customization, and profile management. The application is built using modern web technologies and provides a seamless user experience.
@@ -81,6 +81,7 @@ npm start
 - Being able to upload documents and videos as currently only images can be sent.
 - A search bar to search for users.
 - Using Amazon S3 instead of Cloudinary to support sending large files.
+
 
 
 
