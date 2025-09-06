@@ -1,7 +1,7 @@
 # Convo - A chat application using MERN
 
 ## Overview
-This is a fullstack real-time chat application that allows users to communicate instantly. It includes user authentication, real-time messaging, theme customization, and profile management. The application is built using modern web technologies and provides a seamless user experience.
+This is a fullstack (MERN) real-time chat application that allows users to communicate instantly. It includes user authentication, real-time messaging, theme customization, and profile management. The application is built using modern web technologies and provides to deliver a seamless and scalable user experience.
 ## Features
 - **User Authentication :** Login/Signup functionality with secure authentication.
 - **Real-Time Chat :** Instant messaging between users using Socket.io.
@@ -23,6 +23,7 @@ This is a fullstack real-time chat application that allows users to communicate 
 
 ### **Real-Time Communication**
 - **Socket.io -** Enables real-time bi-directional communication between users. ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
 
 
 
