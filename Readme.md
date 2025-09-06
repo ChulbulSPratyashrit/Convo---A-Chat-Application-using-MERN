@@ -24,48 +24,6 @@ This is a fullstack real-time chat application that allows users to communicate 
 ### **Real-Time Communication**
 - **Socket.io -** Enables real-time bi-directional communication between users. ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-## Installation & Setup
-
-### Prerequisites
-Make sure you have the following installed:
-
-- Node.js (Latest version)
-- MongoDB (Local or cloud instance)
-- npm or yarn
-
-## Steps to run the Application
-### Backend setup
-
-1. Clone the repository:
-```
-git clone https://github.com/your-repo/chat-app.git
-cd chat-app/backend
-```
-
-2. Install dependencies:
-```
-npm install
-```
-
-3. Start the backend server:
-```
-npm start
-```
-
-### Frontend Setup
-
-1. Navigate to the frontend directory:
-```
-cd ../frontend
-```
-2. Install dependencies:
-```
-npm install
-```
-3. Start the frontend server:
-```
-npm start
-```
 
 
 
