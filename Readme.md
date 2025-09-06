@@ -2,7 +2,10 @@
 
 ## Overview
 This is a fullstack real-time chat application that allows users to communicate instantly. It includes user authentication, real-time messaging, theme customization, and profile management. The application is built using modern web technologies and provides a seamless user experience.
-
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ## Features
 - **User Authentication :** Login/Signup functionality with secure authentication.
 - **Real-Time Chat :** Instant messaging between users using Socket.io.
@@ -81,6 +84,7 @@ npm start
 - Being able to upload documents and videos as currently only images can be sent.
 - A search bar to search for users.
 - Using Amazon S3 instead of Cloudinary to support sending large files.
+
 
 
 
